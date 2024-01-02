@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Jacob Mathew</title>
+    <link>https://blist.vercel.app/en/blog/</link>
+    <description>Recent content in Blogs on Jacob Mathew</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blist.vercel.app/en/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Awards</title>
+      <link>https://blist.vercel.app/en/awards/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://blist.vercel.app/en/awards/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Certifications</title>
+      <link>https://blist.vercel.app/en/certifications/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://blist.vercel.app/en/certifications/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Articles</title>
+      <link>https://blist.vercel.app/en/articles/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://blist.vercel.app/en/articles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Speaking Engagements</title>
+      <link>https://blist.vercel.app/en/publicsp/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://blist.vercel.app/en/publicsp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Podcasts</title>
+      <link>https://blist.vercel.app/en/podcasts/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://blist.vercel.app/en/podcasts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Useful links</title>
+      <link>https://blist.vercel.app/en/blog/links/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://blist.vercel.app/en/blog/links/</guid>
+      <description>My current and previous employers&#xA;Technology research and consulting companies that has helped in my career&#xA;Media organisations that enriched my career thus far</description>
+    </item>
+  </channel>
+</rss>
