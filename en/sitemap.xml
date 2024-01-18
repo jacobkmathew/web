@@ -2,25 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jacobkmathew.com/en/certifications/2024cissp/</loc>
+    <lastmod>2024-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jacobkmathew.com/en/</loc>
+    <lastmod>2024-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jacobkmathew.com/en/certifications/</loc>
+    <lastmod>2024-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jacobkmathew.com/en/tags/cio/</loc>
+    <lastmod>2024-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jacobkmathew.com/en/tags/ciso/</loc>
+    <lastmod>2024-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jacobkmathew.com/en/tags/jacob-mathew/</loc>
+    <lastmod>2024-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jacobkmathew.com/en/tags/middle-east-cio/</loc>
+    <lastmod>2024-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jacobkmathew.com/en/tags/</loc>
+    <lastmod>2024-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jacobkmathew.com/en/tags/top-cio/</loc>
+    <lastmod>2024-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jacobkmathew.com/en/tags/uae-cio/</loc>
+    <lastmod>2024-01-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://jacobkmathew.com/en/publicsp/amman22/</loc>
     <lastmod>2024-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jacobkmathew.com/en/</loc>
-    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jacobkmathew.com/en/tags/cio/</loc>
-    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jacobkmathew.com/en/tags/ciso/</loc>
-    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jacobkmathew.com/en/tags/jacob-mathew/</loc>
-    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://jacobkmathew.com/en/publicsp/</loc>
-    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jacobkmathew.com/en/tags/</loc>
     <lastmod>2024-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jacobkmathew.com/en/awards/cio50me2023/</loc>
@@ -34,12 +49,6 @@
   </url><url>
     <loc>https://jacobkmathew.com/en/awards/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jacobkmathew.com/en/certifications/2024cissp/</loc>
-    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jacobkmathew.com/en/certifications/</loc>
-    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jacobkmathew.com/en/awards/edgeciooctob23/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
@@ -134,6 +143,9 @@
     <loc>https://jacobkmathew.com/en/podcasts/ciointrvw/</loc>
     <lastmod>2022-11-05T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://jacobkmathew.com/en/podcasts/cxodx/</loc>
+    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://jacobkmathew.com/en/podcasts/loop/</loc>
     <lastmod>2022-11-05T00:00:00+00:00</lastmod>
   </url><url>
@@ -188,9 +200,6 @@
     <loc>https://jacobkmathew.com/en/blog/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jacobkmathew.com/en/tags/emoji/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://jacobkmathew.com/en/certifications/certifications/</loc>
     <lastmod>2013-12-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -203,16 +212,7 @@
     <loc>https://jacobkmathew.com/en/articles/</loc>
     <lastmod>2013-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jacobkmathew.com/en/tags/css/</loc>
-    <lastmod>2013-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jacobkmathew.com/en/tags/html/</loc>
-    <lastmod>2013-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jacobkmathew.com/en/tags/markdown/</loc>
-    <lastmod>2013-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jacobkmathew.com/en/publicsp/</loc>
+    <loc>https://jacobkmathew.com/en/PublicSp/PublicSp/</loc>
     <lastmod>2013-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jacobkmathew.com/en/podcasts/</loc>
@@ -221,7 +221,7 @@
     <loc>https://jacobkmathew.com/en/podcasts/podcasts/</loc>
     <lastmod>2010-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jacobkmathew.com/en/tags/text/</loc>
+    <loc>https://jacobkmathew.com/en/publicsp/podcasts/</loc>
     <lastmod>2010-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jacobkmathew.com/en/blog/links/</loc>
