@@ -2,34 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jacobkmathew.com/en/podcasts/spectrum/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jacobkmathew.com/en/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jacobkmathew.com/en/tags/cio/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jacobkmathew.com/en/tags/ciso/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jacobkmathew.com/en/tags/jacob-mathew/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jacobkmathew.com/en/tags/middle-east-cio/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jacobkmathew.com/en/podcasts/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jacobkmathew.com/en/tags/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jacobkmathew.com/en/tags/top-cio/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jacobkmathew.com/en/tags/uae-cio/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://jacobkmathew.com/en/articles/titansfeb24/</loc>
     <lastmod>2024-02-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jacobkmathew.com/en/articles/</loc>
-    <lastmod>2024-02-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jacobkmathew.com/en/</loc>
-    <lastmod>2024-02-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jacobkmathew.com/en/tags/cio/</loc>
-    <lastmod>2024-02-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jacobkmathew.com/en/tags/ciso/</loc>
-    <lastmod>2024-02-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jacobkmathew.com/en/tags/jacob-mathew/</loc>
-    <lastmod>2024-02-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jacobkmathew.com/en/tags/middle-east-cio/</loc>
-    <lastmod>2024-02-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jacobkmathew.com/en/tags/</loc>
-    <lastmod>2024-02-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jacobkmathew.com/en/tags/top-cio/</loc>
-    <lastmod>2024-02-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jacobkmathew.com/en/tags/uae-cio/</loc>
     <lastmod>2024-02-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jacobkmathew.com/en/awards/ciofeb2124/</loc>
@@ -137,6 +143,9 @@
     <loc>https://jacobkmathew.com/en/certifications/2024metaverse/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://jacobkmathew.com/en/podcasts/ciointrvw/</loc>
+    <lastmod>2023-04-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://jacobkmathew.com/en/awards/ciso2023/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -149,26 +158,17 @@
     <loc>https://jacobkmathew.com/en/certifications/2024a/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://jacobkmathew.com/en/podcasts/cxodx/</loc>
+    <lastmod>2022-11-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://jacobkmathew.com/en/articles/cionews/</loc>
     <lastmod>2022-11-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jacobkmathew.com/en/articles/digitalfirst/</loc>
     <lastmod>2022-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jacobkmathew.com/en/podcasts/ciointrvw/</loc>
-    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jacobkmathew.com/en/podcasts/cxodx/</loc>
-    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://jacobkmathew.com/en/podcasts/loop/</loc>
-    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jacobkmathew.com/en/podcasts/riskpod/</loc>
-    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jacobkmathew.com/en/podcasts/</loc>
-    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jacobkmathew.com/en/articles/cxodxsep2022/</loc>
     <lastmod>2022-09-10T00:00:00+00:00</lastmod>
@@ -206,6 +206,9 @@
     <loc>https://jacobkmathew.com/en/awards/ciso2021/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://jacobkmathew.com/en/podcasts/podcasts/</loc>
+    <lastmod>2014-05-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://jacobkmathew.com/en/awards/awards/</loc>
     <lastmod>2014-02-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -232,9 +235,6 @@
   </url><url>
     <loc>https://jacobkmathew.com/en/podcasts/</loc>
     <lastmod>2013-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jacobkmathew.com/en/podcasts/podcasts/</loc>
-    <lastmod>2010-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jacobkmathew.com/en/blog/links/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>

@@ -6,8 +6,15 @@
     <description>Recent content in CISO on Jacob Mathew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://jacobkmathew.com/en/tags/ciso/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://jacobkmathew.com/en/podcasts/spectrum/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://jacobkmathew.com/en/podcasts/spectrum/</guid>
+      <description>Watch my video interview with Spectrum </description>
+    </item>
     <item>
       <title></title>
       <link>https://jacobkmathew.com/en/articles/titansfeb24/</link>
@@ -241,6 +248,13 @@
     </item>
     <item>
       <title></title>
+      <link>https://jacobkmathew.com/en/podcasts/ciointrvw/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://jacobkmathew.com/en/podcasts/ciointrvw/</guid>
+      <description>Watch my video interview with CIO Middle East </description>
+    </item>
+    <item>
+      <title></title>
       <link>https://jacobkmathew.com/en/awards/ciso2023/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://jacobkmathew.com/en/awards/ciso2023/</guid>
@@ -269,6 +283,13 @@
     </item>
     <item>
       <title></title>
+      <link>https://jacobkmathew.com/en/podcasts/cxodx/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://jacobkmathew.com/en/podcasts/cxodx/</guid>
+      <description>Watch my video interview with CXO DX </description>
+    </item>
+    <item>
+      <title></title>
       <link>https://jacobkmathew.com/en/articles/cionews/</link>
       <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://jacobkmathew.com/en/articles/cionews/</guid>
@@ -283,31 +304,10 @@
     </item>
     <item>
       <title></title>
-      <link>https://jacobkmathew.com/en/podcasts/ciointrvw/</link>
-      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://jacobkmathew.com/en/podcasts/ciointrvw/</guid>
-      <description>Watch my video interview with CIO Middle East </description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://jacobkmathew.com/en/podcasts/cxodx/</link>
-      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://jacobkmathew.com/en/podcasts/cxodx/</guid>
-      <description>Watch my video interview with CXO DX </description>
-    </item>
-    <item>
-      <title></title>
       <link>https://jacobkmathew.com/en/podcasts/loop/</link>
-      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://jacobkmathew.com/en/podcasts/loop/</guid>
       <description>Watch my video interview with Loop </description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://jacobkmathew.com/en/podcasts/riskpod/</link>
-      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://jacobkmathew.com/en/podcasts/riskpod/</guid>
-      <description>Apple Podcast - Importance of end user cybersecurity awareness </description>
     </item>
     <item>
       <title></title>
@@ -395,6 +395,13 @@
     </item>
     <item>
       <title></title>
+      <link>https://jacobkmathew.com/en/podcasts/podcasts/</link>
+      <pubDate>Sun, 04 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://jacobkmathew.com/en/podcasts/podcasts/</guid>
+      <description>My Podcasts and Video interviews</description>
+    </item>
+    <item>
+      <title></title>
       <link>https://jacobkmathew.com/en/awards/awards/</link>
       <pubDate>Mon, 17 Feb 2014 00:00:00 +0000</pubDate>
       <guid>https://jacobkmathew.com/en/awards/awards/</guid>
@@ -450,13 +457,6 @@
       <description></description>
     </item>
     <item>
-      <title></title>
-      <link>https://jacobkmathew.com/en/podcasts/podcasts/</link>
-      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
-      <guid>https://jacobkmathew.com/en/podcasts/podcasts/</guid>
-      <description>My Podcasts and Video interviews</description>
-    </item>
-    <item>
       <title>Useful links</title>
       <link>https://jacobkmathew.com/en/blog/links/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
@@ -473,7 +473,7 @@
     <item>
       <title>Blog</title>
       <link>https://jacobkmathew.com/en/</link>
-      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       <guid>https://jacobkmathew.com/en/</guid>
       <description></description>
     </item>
