@@ -10,9 +10,9 @@
     <atom:link href="https://jacobkmathew.com/en/tags/middle-east-cio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://jacobkmathew.com/en/podcasts/spectrum/</link>
+      <link>https://jacobkmathew.com/en/videos/spectrum/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://jacobkmathew.com/en/podcasts/spectrum/</guid>
+      <guid>https://jacobkmathew.com/en/videos/spectrum/</guid>
       <description>Watch my video interview with Spectrum </description>
     </item>
     <item>
@@ -248,9 +248,9 @@
     </item>
     <item>
       <title></title>
-      <link>https://jacobkmathew.com/en/podcasts/ciointrvw/</link>
+      <link>https://jacobkmathew.com/en/videos/ciointrvw/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://jacobkmathew.com/en/podcasts/ciointrvw/</guid>
+      <guid>https://jacobkmathew.com/en/videos/ciointrvw/</guid>
       <description>Watch my video interview with CIO Middle East </description>
     </item>
     <item>
@@ -283,9 +283,9 @@
     </item>
     <item>
       <title></title>
-      <link>https://jacobkmathew.com/en/podcasts/cxodx/</link>
+      <link>https://jacobkmathew.com/en/videos/cxodx/</link>
       <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://jacobkmathew.com/en/podcasts/cxodx/</guid>
+      <guid>https://jacobkmathew.com/en/videos/cxodx/</guid>
       <description>Watch my video interview with CXO DX </description>
     </item>
     <item>
@@ -304,9 +304,9 @@
     </item>
     <item>
       <title></title>
-      <link>https://jacobkmathew.com/en/podcasts/loop/</link>
+      <link>https://jacobkmathew.com/en/videos/loop/</link>
       <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://jacobkmathew.com/en/podcasts/loop/</guid>
+      <guid>https://jacobkmathew.com/en/videos/loop/</guid>
       <description>Watch my video interview with Loop </description>
     </item>
     <item>
@@ -395,10 +395,10 @@
     </item>
     <item>
       <title></title>
-      <link>https://jacobkmathew.com/en/podcasts/podcasts/</link>
+      <link>https://jacobkmathew.com/en/videos/videos/</link>
       <pubDate>Sun, 04 May 2014 00:00:00 +0000</pubDate>
-      <guid>https://jacobkmathew.com/en/podcasts/podcasts/</guid>
-      <description>My Podcasts and Video interviews</description>
+      <guid>https://jacobkmathew.com/en/videos/videos/</guid>
+      <description>My Video interviews&#xA;![spectrum](/Video Interviews/spectrum.jpg) ![loop](/Video Interviews/loop.jpg) ![ciointrv](/Video Interviews/ciointrvw.jpg) ![cxodx](/Video Interviews/cxodx.jpg)</description>
     </item>
     <item>
       <title></title>
@@ -450,10 +450,10 @@
       <description></description>
     </item>
     <item>
-      <title>Podcasts</title>
-      <link>https://jacobkmathew.com/en/podcasts/</link>
+      <title>Video Interviews</title>
+      <link>https://jacobkmathew.com/en/videos/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://jacobkmathew.com/en/podcasts/</guid>
+      <guid>https://jacobkmathew.com/en/videos/</guid>
       <description></description>
     </item>
     <item>
