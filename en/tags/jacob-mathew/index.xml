@@ -6,14 +6,49 @@
     <description>Recent content on Jacob Mathew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://jacobkmathew.com/en/tags/jacob-mathew/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://jacobkmathew.com/en/videos/spectrum/</link>
+      <link>https://jacobkmathew.com/en/speaking-engagements/amman22/</link>
+      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://jacobkmathew.com/en/speaking-engagements/amman22/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://jacobkmathew.com/en/speaking-engagements/bahrain21/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://jacobkmathew.com/en/speaking-engagements/bahrain21/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://jacobkmathew.com/en/interviews/cyberpod/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://jacobkmathew.com/en/interviews/cyberpod/</guid>
+      <description>Listen to my interview on Podcast </description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://jacobkmathew.com/en/awards/dt5024/</link>
+      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://jacobkmathew.com/en/awards/dt5024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://jacobkmathew.com/en/interviews/spectrum/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://jacobkmathew.com/en/videos/spectrum/</guid>
+      <guid>https://jacobkmathew.com/en/interviews/spectrum/</guid>
       <description>Watch my video interview with Spectrum </description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://jacobkmathew.com/en/awards/ciso24/</link>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://jacobkmathew.com/en/awards/ciso24/</guid>
+      <description></description>
     </item>
     <item>
       <title></title>
@@ -66,23 +101,9 @@
     </item>
     <item>
       <title></title>
-      <link>https://jacobkmathew.com/en/speaking-engagements/amman22/</link>
-      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://jacobkmathew.com/en/speaking-engagements/amman22/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
       <link>https://jacobkmathew.com/en/awards/cio50me2023/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://jacobkmathew.com/en/awards/cio50me2023/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://jacobkmathew.com/en/speaking-engagements/bahrain21/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://jacobkmathew.com/en/speaking-engagements/bahrain21/</guid>
       <description></description>
     </item>
     <item>
@@ -248,9 +269,9 @@
     </item>
     <item>
       <title></title>
-      <link>https://jacobkmathew.com/en/videos/ciointrvw/</link>
+      <link>https://jacobkmathew.com/en/interviews/ciointrvw/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://jacobkmathew.com/en/videos/ciointrvw/</guid>
+      <guid>https://jacobkmathew.com/en/interviews/ciointrvw/</guid>
       <description>Watch my video interview with CIO Middle East </description>
     </item>
     <item>
@@ -283,9 +304,9 @@
     </item>
     <item>
       <title></title>
-      <link>https://jacobkmathew.com/en/videos/cxodx/</link>
+      <link>https://jacobkmathew.com/en/interviews/cxodx/</link>
       <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://jacobkmathew.com/en/videos/cxodx/</guid>
+      <guid>https://jacobkmathew.com/en/interviews/cxodx/</guid>
       <description>Watch my video interview with CXO DX </description>
     </item>
     <item>
@@ -304,9 +325,9 @@
     </item>
     <item>
       <title></title>
-      <link>https://jacobkmathew.com/en/videos/loop/</link>
+      <link>https://jacobkmathew.com/en/interviews/loop/</link>
       <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://jacobkmathew.com/en/videos/loop/</guid>
+      <guid>https://jacobkmathew.com/en/interviews/loop/</guid>
       <description>Watch my video interview with Loop </description>
     </item>
     <item>
@@ -395,15 +416,15 @@
     </item>
     <item>
       <title></title>
-      <link>https://jacobkmathew.com/en/videos/videos/</link>
+      <link>https://jacobkmathew.com/en/interviews/interviews/</link>
       <pubDate>Sun, 04 May 2014 00:00:00 +0000</pubDate>
-      <guid>https://jacobkmathew.com/en/videos/videos/</guid>
-      <description>My Video interviews&#xA;![spectrum](/Video Interviews/spectrum.jpg) ![loop](/Video Interviews/loop.jpg) ![ciointrv](/Video Interviews/ciointrvw.jpg) ![cxodx](/Video Interviews/cxodx.jpg)</description>
+      <guid>https://jacobkmathew.com/en/interviews/interviews/</guid>
+      <description> </description>
     </item>
     <item>
       <title></title>
       <link>https://jacobkmathew.com/en/awards/awards/</link>
-      <pubDate>Mon, 17 Feb 2014 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 25 Feb 2014 00:00:00 +0000</pubDate>
       <guid>https://jacobkmathew.com/en/awards/awards/</guid>
       <description> </description>
     </item>
@@ -450,10 +471,10 @@
       <description></description>
     </item>
     <item>
-      <title>Video Interviews</title>
-      <link>https://jacobkmathew.com/en/videos/</link>
+      <title>My Interviews</title>
+      <link>https://jacobkmathew.com/en/interviews/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://jacobkmathew.com/en/videos/</guid>
+      <guid>https://jacobkmathew.com/en/interviews/</guid>
       <description></description>
     </item>
     <item>
@@ -468,12 +489,12 @@
       <link>https://jacobkmathew.com/en/articles/articles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://jacobkmathew.com/en/articles/articles/</guid>
-      <description></description>
+      <description> </description>
     </item>
     <item>
       <title>Blog</title>
       <link>https://jacobkmathew.com/en/</link>
-      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
       <guid>https://jacobkmathew.com/en/</guid>
       <description></description>
     </item>

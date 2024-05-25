@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interviews on Jacob Mathew</title>
+    <link>https://jacobkmathew.com/en/interviews/</link>
+    <description>Recent content in Interviews on Jacob Mathew</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 23 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://jacobkmathew.com/en/interviews/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://jacobkmathew.com/en/interviews/cyberpod/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://jacobkmathew.com/en/interviews/cyberpod/</guid>
+      <description>Listen to my interview on Podcast </description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://jacobkmathew.com/en/interviews/spectrum/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://jacobkmathew.com/en/interviews/spectrum/</guid>
+      <description>Watch my video interview with Spectrum </description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://jacobkmathew.com/en/interviews/ciointrvw/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://jacobkmathew.com/en/interviews/ciointrvw/</guid>
+      <description>Watch my video interview with CIO Middle East </description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://jacobkmathew.com/en/interviews/cxodx/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://jacobkmathew.com/en/interviews/cxodx/</guid>
+      <description>Watch my video interview with CXO DX </description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://jacobkmathew.com/en/interviews/loop/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://jacobkmathew.com/en/interviews/loop/</guid>
+      <description>Watch my video interview with Loop </description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://jacobkmathew.com/en/interviews/interviews/</link>
+      <pubDate>Sun, 04 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://jacobkmathew.com/en/interviews/interviews/</guid>
+      <description> </description>
+    </item>
+  </channel>
+</rss>
