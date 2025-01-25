@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jacobkmathew.com/en/interviews/koot/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://jacobkmathew.com/en/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -12,6 +15,9 @@
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jacobkmathew.com/en/tags/ciso/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jacobkmathew.com/en/interviews/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jacobkmathew.com/en/tags/jacob-mathew/</loc>
@@ -78,9 +84,6 @@
     <lastmod>2024-05-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jacobkmathew.com/en/interviews/spectrum/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jacobkmathew.com/en/interviews/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jacobkmathew.com/en/awards/ciso24/</loc>
