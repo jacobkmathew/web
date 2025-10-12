@@ -2,49 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jacobkmathew.com/en/articles/entjul25/</loc>
-    <lastmod>2025-07-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://jacobkmathew.com/en/speaking-engagements/amman22/</loc>
+    <lastmod>2025-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jacobkmathew.com/en/</loc>
+    <lastmod>2025-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jacobkmathew.com/en/tags/cio/</loc>
+    <lastmod>2025-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jacobkmathew.com/en/tags/ciso/</loc>
+    <lastmod>2025-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jacobkmathew.com/en/tags/jacob-mathew/</loc>
+    <lastmod>2025-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jacobkmathew.com/en/tags/middle-east-cio/</loc>
+    <lastmod>2025-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jacobkmathew.com/en/speaking-engagements/</loc>
+    <lastmod>2025-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jacobkmathew.com/en/tags/</loc>
+    <lastmod>2025-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jacobkmathew.com/en/tags/top-cio/</loc>
+    <lastmod>2025-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jacobkmathew.com/en/tags/uae-cio/</loc>
+    <lastmod>2025-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jacobkmathew.com/en/speaking-engagements/bahrain21/</loc>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jacobkmathew.com/en/speaking-engagements/webinaroct25/</loc>
+    <lastmod>2025-10-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jacobkmathew.com/en/certifications/2025cdi/</loc>
+    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jacobkmathew.com/en/certifications/</loc>
+    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jacobkmathew.com/en/articles/entjul25/</loc>
     <lastmod>2025-07-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jacobkmathew.com/en/articles/</loc>
     <lastmod>2025-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jacobkmathew.com/en/</loc>
-    <lastmod>2025-07-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jacobkmathew.com/en/tags/cio/</loc>
-    <lastmod>2025-07-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jacobkmathew.com/en/tags/ciso/</loc>
-    <lastmod>2025-07-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jacobkmathew.com/en/tags/jacob-mathew/</loc>
-    <lastmod>2025-07-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jacobkmathew.com/en/tags/middle-east-cio/</loc>
-    <lastmod>2025-07-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jacobkmathew.com/en/speaking-engagements/</loc>
-    <lastmod>2025-07-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jacobkmathew.com/en/tags/</loc>
-    <lastmod>2025-07-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jacobkmathew.com/en/tags/top-cio/</loc>
-    <lastmod>2025-07-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jacobkmathew.com/en/tags/uae-cio/</loc>
-    <lastmod>2025-07-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jacobkmathew.com/en/speaking-engagements/bahrain21/</loc>
-    <lastmod>2025-07-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://jacobkmathew.com/en/certifications/2024azure/</loc>
-    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jacobkmathew.com/en/certifications/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jacobkmathew.com/en/speaking-engagements/futuresec25/</loc>
@@ -182,9 +188,6 @@
     <loc>https://jacobkmathew.com/en/articles/titansaug23/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jacobkmathew.com/en/speaking-engagements/ciso23/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://jacobkmathew.com/en/speaking-engagements/worldaishow23/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -292,9 +295,6 @@
   </url><url>
     <loc>https://jacobkmathew.com/en/interviews/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jacobkmathew.com/en/certifications/certifications/</loc>
-    <lastmod>2013-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jacobkmathew.com/en/speaking-engagements/speaking-engagements/</loc>
     <lastmod>2013-11-01T00:00:00+00:00</lastmod>
