@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Jacob Mathew</title>
+    <link>https://jacobkmathew.com/blog/</link>
+    <description>Recent content in Blogs on Jacob Mathew</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://jacobkmathew.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Services</title>
+      <link>https://jacobkmathew.com/blog/services/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://jacobkmathew.com/blog/services/</guid>
+      <description>Help you organise resources to achieve your goals.&#xA;Please use the link below to book a personal time with me. Thank you.&#xA;Request for help Request for a speaking engagement&#xA;Interested to invite me as a speaker? Please complete the details from the below link and I will revert shortly. Thank you.&#xA;Request to speak </description>
+    </item>
+    <item>
+      <title>Articles</title>
+      <link>https://jacobkmathew.com/articles/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://jacobkmathew.com/articles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Awards</title>
+      <link>https://jacobkmathew.com/awards/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://jacobkmathew.com/awards/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Speaking Engagements</title>
+      <link>https://jacobkmathew.com/speaking-engagements/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://jacobkmathew.com/speaking-engagements/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Certifications</title>
+      <link>https://jacobkmathew.com/certifications/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://jacobkmathew.com/certifications/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>My Interviews</title>
+      <link>https://jacobkmathew.com/interviews/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jacobkmathew.com/interviews/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
