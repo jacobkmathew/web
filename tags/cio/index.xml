@@ -613,8 +613,15 @@
     <item>
       <title></title>
       <link>https://jacobkmathew.com/awards/awards/</link>
-      <pubDate>Sun, 26 Jun 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Jun 2016 00:00:00 +0000</pubDate>
       <guid>https://jacobkmathew.com/awards/awards/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Awards</title>
+      <link>https://jacobkmathew.com/awards/</link>
+      <pubDate>Sat, 25 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://jacobkmathew.com/awards/</guid>
       <description></description>
     </item>
     <item>
@@ -622,13 +629,6 @@
       <link>https://jacobkmathew.com/articles/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       <guid>https://jacobkmathew.com/articles/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Awards</title>
-      <link>https://jacobkmathew.com/awards/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://jacobkmathew.com/awards/</guid>
       <description></description>
     </item>
     <item>
@@ -674,7 +674,7 @@
       <description></description>
     </item>
     <item>
-      <title></title>
+      <title>Jacob Mathew speaks on AI governance, cybersecurity strategy, and digital transformation at executive forums and technology conferences across MENA.</title>
       <link>https://jacobkmathew.com/speaking-engagements/speaking-engagements/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
       <guid>https://jacobkmathew.com/speaking-engagements/speaking-engagements/</guid>
@@ -695,7 +695,7 @@
       <description></description>
     </item>
     <item>
-      <title>Blog</title>
+      <title>Jacob Mathew is a Technology and Cybersecurity Executive with 25&#43; years of experience leading AI transformation and digital programmes across MENA and the GCC.</title>
       <link>https://jacobkmathew.com/</link>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://jacobkmathew.com/</guid>
