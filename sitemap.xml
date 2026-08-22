@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jacobkmathew.com/mentoring/</loc>
+    <lastmod>2026-08-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://jacobkmathew.com/blog/</loc>
     <lastmod>2026-08-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -15,6 +18,9 @@
     <lastmod>2026-08-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jacobkmathew.com/</loc>
+    <lastmod>2026-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jacobkmathew.com/mentoring/</loc>
     <lastmod>2026-08-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jacobkmathew.com/tags/middle-east-cio/</loc>
@@ -140,13 +146,7 @@
     <loc>https://jacobkmathew.com/interviews/koot/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jacobkmathew.com/mentoring/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://jacobkmathew.com/interviews/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jacobkmathew.com/mentoring/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jacobkmathew.com/articles/bharatcxo/</loc>
