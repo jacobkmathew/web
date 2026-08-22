@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jacobkmathew.com/mentoring/</loc>
-    <lastmod>2026-08-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://jacobkmathew.com/blog/</loc>
     <lastmod>2026-08-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -18,9 +15,6 @@
     <lastmod>2026-08-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jacobkmathew.com/</loc>
-    <lastmod>2026-08-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jacobkmathew.com/mentoring/</loc>
     <lastmod>2026-08-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jacobkmathew.com/tags/middle-east-cio/</loc>
@@ -109,6 +103,12 @@
   </url><url>
     <loc>https://jacobkmathew.com/certifications/2025cdi/</loc>
     <lastmod>2025-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jacobkmathew.com/mentoring/mentor/</loc>
+    <lastmod>2025-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jacobkmathew.com/mentoring/</loc>
+    <lastmod>2025-08-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jacobkmathew.com/articles/entjul25/</loc>
     <lastmod>2025-07-18T00:00:00+00:00</lastmod>
@@ -324,6 +324,9 @@
     <lastmod>2020-04-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jacobkmathew.com/awards/awards/</loc>
+    <lastmod>2016-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jacobkmathew.com/mentoring/mentoring/</loc>
     <lastmod>2016-06-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jacobkmathew.com/interviews/interviews/</loc>
