@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Jacob Mathew</title>
+    <title>Blog on Jacob Mathew</title>
     <link>https://jacobkmathew.com/blog/</link>
-    <description>Recent content in Blogs on Jacob Mathew</description>
+    <description>Recent content in Blog on Jacob Mathew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 22 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://jacobkmathew.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Speaking Engagements</title>
+      <title>Speaking</title>
       <link>https://jacobkmathew.com/speaking/</link>
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://jacobkmathew.com/speaking/</guid>
@@ -45,9 +45,9 @@
     </item>
     <item>
       <title>Mentoring</title>
-      <link>https://jacobkmathew.com/blog/mentoring/</link>
+      <link>https://jacobkmathew.com/mentoring/</link>
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://jacobkmathew.com/blog/mentoring/</guid>
+      <guid>https://jacobkmathew.com/mentoring/</guid>
       <description>Help you organise resources to achieve your goals.&#xA;Please use the link below to book a personal time with me. Thank you.&#xA;Request for help </description>
     </item>
   </channel>
